@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 <!--
 **DanielDaCosta/DanielDaCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +25,7 @@ Here are some ideas to get you started:
 - [Uploading a Python package to PyPi](https://medium.com/python-in-plain-english/uploading-a-python-package-to-pypi-33e13ed6c6d3)
 - [Rio de Janeiro Airbnb Data Analysis](https://medium.com/@danieldacosta_75030/rio-de-janeiro-airbnb-data-analysis-b43241102455)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanielDaCosta&show_icons=true&hide_border=true" />
