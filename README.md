@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Discord notification using CloudWatch Alarms, SNS and AWS Lambda](https://towardsdatascience.com/discord-notification-using-cloudwatch-alarms-sns-and-aws-lambda-71393861699f)
 - [Automating Lambda modules deployment with GitLab CI](https://towardsdatascience.com/automating-lambda-modules-deployment-with-gitlab-ci-b34cc58a7ac0)
 - [Building an ApiGateway-SQS-Lambda integration using Terraform](https://towardsdatascience.com/building-an-apigateway-sqs-lambda-integration-using-terraform-5617cc0408ad)
 - [Text Classifier with Multiple Outputs and Multiple Losses in Keras](https://towardsdatascience.com/text-classifier-with-multiple-outputs-and-multiple-losses-in-keras-4b7a527eb858)
 - [Uploading a Python package to PyPi](https://medium.com/python-in-plain-english/uploading-a-python-package-to-pypi-33e13ed6c6d3)
-- [Rio de Janeiro Airbnb Data Analysis](https://medium.com/@danieldacosta_75030/rio-de-janeiro-airbnb-data-analysis-b43241102455)
 <!-- BLOG-POST-LIST:END -->
 
 ---
