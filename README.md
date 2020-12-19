@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DanielDaCosta" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielDaCosta" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDaCosta&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDaCosta&layout=compact" />
 </a>
