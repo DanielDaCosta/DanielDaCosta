@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DanielDaCosta&show_icons=true&hide_border=true" />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielDaCosta)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDaCosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
