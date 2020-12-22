@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Building an ETL pipeline with Airflow and ECS] (https://towardsdatascience.com/building-an-etl-pipeline-with-airflow-and-ecs-4f68b7aa3b5b)
+- [Building an ETL pipeline with Airflow and ECS](https://towardsdatascience.com/building-an-etl-pipeline-with-airflow-and-ecs-4f68b7aa3b5b)
 - [Going Bastion-less: Accessing Private EC2 instance with Session Manager](https://towardsdatascience.com/going-bastion-less-accessing-private-ec2-instance-with-session-manager-c958cbf8489f)
 - [Discord notification using CloudWatch Alarms, SNS and AWS Lambda](https://towardsdatascience.com/discord-notification-using-cloudwatch-alarms-sns-and-aws-lambda-71393861699f)
 - [Building an ApiGateway-SQS-Lambda integration using Terraform](https://towardsdatascience.com/building-an-apigateway-sqs-lambda-integration-using-terraform-5617cc0408ad)
