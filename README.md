@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Posts/Papers
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Language Models through Enhanced Fine-Tuning with Data Augmentation Techniques.pdf](https://github.com/DanielDaCosta/FineTunedBERT-Data-Augmentation/blob/main/Optimizing%20Language%20Models%20through%20Enhanced%20Fine-Tuning%20with%20Data%20Augmentation%20Techniques.pdf)
-- [Unveiling the Power of Multi-Layer Feed-Forward Networks in Text Classification.pdf](https://github.com/DanielDaCosta/NeuralTextClassifier-Comparison/blob/main/Unveiling%20the%20Power%20of%20Multi-Layer%20Feed-Forward%20Networks%20in%20Text%20Classification.pdf)
-- [Exploring the Efficacy of Simple Models and Feature Engineering Techniques in Text Classification.pdf](https://github.com/DanielDaCosta/Text-Classification-Exploration/blob/main/Exploring%20the%20Efficacy%20of%20Simple%20Models%20and%20Feature%20Engineering%20Techniques%20in%20Text%20Classification.pdf)
+- [Optimizing Language Models through Enhanced Fine-Tuning with Data Augmentation Techniques](https://github.com/DanielDaCosta/FineTunedBERT-Data-Augmentation/blob/main/Optimizing%20Language%20Models%20through%20Enhanced%20Fine-Tuning%20with%20Data%20Augmentation%20Techniques.pdf)
+- [Unveiling the Power of Multi-Layer Feed-Forward Networks in Text Classification](https://github.com/DanielDaCosta/NeuralTextClassifier-Comparison/blob/main/Unveiling%20the%20Power%20of%20Multi-Layer%20Feed-Forward%20Networks%20in%20Text%20Classification.pdf)
+- [Exploring the Efficacy of Simple Models and Feature Engineering Techniques in Text Classification](https://github.com/DanielDaCosta/Text-Classification-Exploration/blob/main/Exploring%20the%20Efficacy%20of%20Simple%20Models%20and%20Feature%20Engineering%20Techniques%20in%20Text%20Classification.pdf)
 - [Building an ETL pipeline with Airflow and ECS](https://towardsdatascience.com/building-an-etl-pipeline-with-airflow-and-ecs-4f68b7aa3b5b)
 - [Going Bastion-less: Accessing Private EC2 instance with Session Manager](https://towardsdatascience.com/going-bastion-less-accessing-private-ec2-instance-with-session-manager-c958cbf8489f)
 - [Discord notification using CloudWatch Alarms, SNS and AWS Lambda](https://towardsdatascience.com/discord-notification-using-cloudwatch-alarms-sns-and-aws-lambda-71393861699f)
